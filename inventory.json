@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-09-26T15:10:37",
+  "generated_at": "2026-10-08T14:39:47",
   "vehicle_count": 99,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "JM1NB353220221719",
       "stock": "KU2288",
       "color": "Grey",
+      "trim": "Miata BASE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/2d266eab3e90.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2002/mazda/mx-5-miata/kelowna/bc/69335445/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2002/mazda/mx-5-miata/kelowna/bc/69335445/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 17772,
       "year": 2002,
       "make": "Mazda",
-      "model": "MX-5 Miata BASE",
-      "condition": "used"
+      "model": "MX-5",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2012 Toyota Matrix BASE",
@@ -34,13 +37,16 @@
       "year": 2012,
       "make": "Toyota",
       "model": "Matrix BASE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Subaru Impreza SPORT 4DR",
       "vin": "JF1GJAD65DH032584",
       "stock": "PN26043",
       "color": "Red",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b4fc6bf7032c.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2013/subaru/impreza/kelowna/bc/71308141/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2013/subaru/impreza/kelowna/bc/71308141/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,13 +56,16 @@
       "odometer_km": 111825,
       "year": 2013,
       "make": "Subaru",
-      "model": "Impreza SPORT 4DR",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Rio Hatchback 5-Door RIO CINCO",
       "vin": "KNADM5A35E6945913",
       "stock": "KU2371A",
+      "trim": "5-Door RIO CINCO",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a9ab13ffb408.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2014/kia/rio-hatchback-5-door/kelowna/bc/71036006/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2014/kia/rio-hatchback-5-door/kelowna/bc/71036006/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -66,13 +75,16 @@
       "odometer_km": 105892,
       "year": 2014,
       "make": "Kia",
-      "model": "Rio Hatchback 5-Door RIO CINCO",
-      "condition": "used"
+      "model": "Rio",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Versa Note SR",
       "vin": "3N1CE2CP4FL402766",
       "stock": "KN26478",
+      "trim": "Note SR",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/8f57375a6795.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2015/nissan/versa-note/kelowna/bc/71257818/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2015/nissan/versa-note/kelowna/bc/71257818/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -82,14 +94,17 @@
       "odometer_km": 100538,
       "year": 2015,
       "make": "Nissan",
-      "model": "Versa Note SR",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester TOURING",
       "vin": "JF2SJCHC4FH402248",
       "stock": "KN26431",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/014590b56f34.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2015/subaru/forester/kelowna/bc/71393373/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2015/subaru/forester/kelowna/bc/71393373/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -99,13 +114,16 @@
       "odometer_km": 203525,
       "year": 2015,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Impreza 2.0I W/LIMITED PKG",
       "vin": "JF1GJAP67FH015767",
       "stock": "KN26424",
+      "trim": "2.0I",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/7840539377a3.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2015/subaru/impreza/kelowna/bc/71036007/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2015/subaru/impreza/kelowna/bc/71036007/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -115,14 +133,17 @@
       "odometer_km": 110302,
       "year": 2015,
       "make": "Subaru",
-      "model": "Impreza 2.0I W/LIMITED PKG",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Camaro Coupe 2LT",
       "vin": "1G1FD1RS6G0134443",
       "stock": "KU2367",
       "color": "White",
+      "trim": "2LT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/3585f01a46fc.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2016/chevrolet/camaro-coupe/kelowna/bc/70611895/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2016/chevrolet/camaro-coupe/kelowna/bc/70611895/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -132,13 +153,16 @@
       "odometer_km": 39062,
       "year": 2016,
       "make": "Chevrolet",
-      "model": "Camaro Coupe 2LT",
-      "condition": "used"
+      "model": "Camaro",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport LUXURY",
       "vin": "5XYZUDLB0GG374709",
       "stock": "KN26232",
+      "trim": "Sport LUXURY",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/5655520bec58.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2016/hyundai/santa-fe-sport/kelowna/bc/70051307/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2016/hyundai/santa-fe-sport/kelowna/bc/70051307/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -148,13 +172,16 @@
       "odometer_km": 108172,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport LUXURY",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Maxima Sedan MAXIMA",
       "vin": "1N4AA6AP7GC421731",
       "stock": "KN26405",
+      "trim": "MAXIMA",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/405cfd05e51d.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2016/nissan/maxima-sedan/kelowna/bc/70974540/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2016/nissan/maxima-sedan/kelowna/bc/70974540/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -164,14 +191,17 @@
       "odometer_km": 114922,
       "year": 2016,
       "make": "Nissan",
-      "model": "Maxima Sedan MAXIMA",
-      "condition": "used"
+      "model": "Maxima",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Legacy Sedan 2.5I W/TOURING PKG",
       "vin": "4S3BNCD62G3035402",
       "stock": "KU2392",
       "color": "Grey",
+      "trim": "2.5I",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/5cf2b1cfc23b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2016/subaru/legacy-sedan/kelowna/bc/71062027/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2016/subaru/legacy-sedan/kelowna/bc/71062027/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -181,14 +211,17 @@
       "odometer_km": 147070,
       "year": 2016,
       "make": "Subaru",
-      "model": "Legacy Sedan 2.5I W/TOURING PKG",
-      "condition": "used"
+      "model": "Legacy",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape TITANIUM",
       "vin": "1FMCU9J99HUC15329",
       "stock": "KN26041",
       "color": "Grey",
+      "trim": "TITANIUM",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/5be457afe8dd.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2017/ford/escape/kelowna/bc/71160777/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2017/ford/escape/kelowna/bc/71160777/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -198,13 +231,16 @@
       "odometer_km": 97422,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape TITANIUM",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona PREFERRED",
       "vin": "KM8K5CA58JU143578",
       "stock": "KN26451",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/07b5afbf20f5.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2018/hyundai/kona/kelowna/bc/71160774/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2018/hyundai/kona/kelowna/bc/71160774/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -214,13 +250,16 @@
       "odometer_km": 59599,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Kona PREFERRED",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda Mazda3 Sedan GT",
       "vin": "3MZBN1W32JM178232",
       "stock": "KU2191A",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ce76cfc742d5.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2018/mazda/mazda3-sedan/kelowna/bc/70932127/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2018/mazda/mazda3-sedan/kelowna/bc/70932127/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -230,14 +269,17 @@
       "odometer_km": 117377,
       "year": 2018,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GT",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Outback 3.6R",
       "vin": "4S4BSFNC7J3239467",
       "stock": "KN26460",
       "color": "Blue",
+      "trim": "3.6R",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/730cd952a16b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2018/subaru/outback/kelowna/bc/71168605/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2018/subaru/outback/kelowna/bc/71168605/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -247,14 +289,17 @@
       "odometer_km": 166782,
       "year": 2018,
       "make": "Subaru",
-      "model": "Outback 3.6R",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 BMW 2 Series Coupe M240I XDRIVE",
       "vin": "WBA2J7C53K7D12801",
       "stock": "KU2383",
       "color": "White",
+      "trim": "M240I XDRIVE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/c3aaf00d1b5d.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2019/bmw/2-series-coupe/kelowna/bc/70920039/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2019/bmw/2-series-coupe/kelowna/bc/70920039/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -264,14 +309,17 @@
       "odometer_km": 112780,
       "year": 2019,
       "make": "BMW",
-      "model": "2 Series Coupe M240I XDRIVE",
-      "condition": "used"
+      "model": "2 Series",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Infiniti QX50 ESSENTIAL",
       "vin": "3PCAJ5M32KF111530",
       "stock": "KU2409",
       "color": "White",
+      "trim": "ESSENTIAL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/57a25802d4fe.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2019/infiniti/qx50/kelowna/bc/71381768/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2019/infiniti/qx50/kelowna/bc/71381768/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -279,14 +327,17 @@
       "odometer_km": 109616,
       "year": 2019,
       "make": "Infiniti",
-      "model": "QX50 ESSENTIAL",
-      "condition": "used"
+      "model": "QX50",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent TOURING",
       "vin": "4S4WMADD4K3438759",
       "stock": "KN26504",
       "color": "Brown",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/1fbb83e7aff9.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2019/subaru/ascent/kelowna/bc/71281964/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2019/subaru/ascent/kelowna/bc/71281964/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -296,14 +347,17 @@
       "odometer_km": 85965,
       "year": 2019,
       "make": "Subaru",
-      "model": "Ascent TOURING",
-      "condition": "used"
+      "model": "Ascent",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Impreza TOURING",
       "vin": "4S3GTAC68K1741635",
       "stock": "KU2369",
       "color": "Silver",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/83de33bcee8b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2019/subaru/impreza/kelowna/bc/70611896/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2019/subaru/impreza/kelowna/bc/70611896/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -313,14 +367,17 @@
       "odometer_km": 107723,
       "year": 2019,
       "make": "Subaru",
-      "model": "Impreza TOURING",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra PREFERRED W/SUN & SAFETY PACKAGE",
       "vin": "KMHD84LF3LU110504",
       "stock": "PN25158",
       "color": "Silver",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/2a8dd96a2086.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2020/hyundai/elantra/kelowna/bc/71148140/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2020/hyundai/elantra/kelowna/bc/71148140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -330,13 +387,16 @@
       "odometer_km": 62300,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra PREFERRED W/SUN & SAFETY PACKAGE",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-5 SIGNATURE",
       "vin": "JM3KFBEY0L0786105",
       "stock": "KN26429",
+      "trim": "SIGNATURE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a54ec5548a11.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2020/mazda/cx-5/kelowna/bc/70963404/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2020/mazda/cx-5/kelowna/bc/70963404/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -346,14 +406,17 @@
       "odometer_km": 131450,
       "year": 2020,
       "make": "Mazda",
-      "model": "CX-5 SIGNATURE",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek CROSSTREK  TOURING",
       "vin": "JF2GTAPC3MH273261",
       "stock": "KN26394",
       "color": "Grey",
+      "trim": "CROSSTREK TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/039c8af8bef3.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/crosstrek/kelowna/bc/70762140/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/crosstrek/kelowna/bc/70762140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -363,14 +426,17 @@
       "odometer_km": 97172,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek CROSSTREK  TOURING",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek CONVENIENCE",
       "vin": "JF2GTABC4M8682666",
       "stock": "KU2388",
       "color": "Silver",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b9266abe02d0.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/crosstrek/kelowna/bc/70996780/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/crosstrek/kelowna/bc/70996780/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -380,14 +446,17 @@
       "odometer_km": 92602,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek CONVENIENCE",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Forester SPORT",
       "vin": "JF2SKEMCXMH545183",
       "stock": "KU2408",
       "color": "Blue",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b28bdd790db2.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/forester/kelowna/bc/71359868/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/forester/kelowna/bc/71359868/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -397,14 +466,17 @@
       "odometer_km": 86333,
       "year": 2021,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Impreza CONVN 5DR",
       "vin": "4S3GTAA61M1715853",
       "stock": "KU2327",
       "color": "White",
+      "trim": "CONVN 5DR",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f12b1d67eca6.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/impreza/kelowna/bc/70037140/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/impreza/kelowna/bc/70037140/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -414,14 +486,17 @@
       "odometer_km": 61627,
       "year": 2021,
       "make": "Subaru",
-      "model": "Impreza CONVN 5DR",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Outback PREMIER XT",
       "vin": "4S4BTHPD5M3134185",
       "stock": "KU2297",
       "color": "Blue",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/996de90b69f3.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/outback/kelowna/bc/71133183/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/outback/kelowna/bc/71133183/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -431,13 +506,16 @@
       "odometer_km": 130710,
       "year": 2021,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru WRX STI STI SPORT",
       "vin": "JF1VA2U64M9803172",
       "stock": "KN26447",
+      "trim": "STI STI SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b552b14c0cbd.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/wrx-sti/kelowna/bc/71405535/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2021/subaru/wrx-sti/kelowna/bc/71405535/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -447,13 +525,16 @@
       "odometer_km": 36343,
       "year": 2021,
       "make": "Subaru",
-      "model": "WRX STI STI SPORT",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Honda HR-V TOURING",
       "vin": "3CZRU6H97NM104307",
       "stock": "KN26325",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/1393d7eebfd3.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2022/honda/hr-v/kelowna/bc/70510533/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2022/honda/hr-v/kelowna/bc/70510533/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -463,14 +544,17 @@
       "odometer_km": 51252,
       "year": 2022,
       "make": "Honda",
-      "model": "HR-V TOURING",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent PREMIER",
       "vin": "4S4WMARD2N3467545",
       "stock": "KU2385",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/c59389f7053f.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/ascent/kelowna/bc/70932128/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/ascent/kelowna/bc/70932128/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -480,14 +564,17 @@
       "odometer_km": 59835,
       "year": 2022,
       "make": "Subaru",
-      "model": "Ascent PREMIER",
-      "condition": "used"
+      "model": "Ascent",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Forester BASE",
       "vin": "JF2SKECC1NH469405",
       "stock": "PN26170",
       "color": "White",
+      "trim": "BASE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/bf1aa5c32430.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/forester/kelowna/bc/71288963/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/forester/kelowna/bc/71288963/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -497,14 +584,17 @@
       "odometer_km": 99163,
       "year": 2022,
       "make": "Subaru",
-      "model": "Forester BASE",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Forester WILDERNESS",
       "vin": "JF2SKELC0NH439733",
       "stock": "PN26162",
       "color": "Blue",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/09be9c1a6501.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/forester/kelowna/bc/71359869/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2022/subaru/forester/kelowna/bc/71359869/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -514,13 +604,16 @@
       "odometer_km": 98127,
       "year": 2022,
       "make": "Subaru",
-      "model": "Forester WILDERNESS",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan COMFORTLINE",
       "vin": "3VV2B7AX1NM115607",
       "stock": "KN26308",
+      "trim": "COMFORTLINE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ff8519164706.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2022/volkswagen/tiguan/kelowna/bc/70898883/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2022/volkswagen/tiguan/kelowna/bc/70898883/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -530,14 +623,17 @@
       "odometer_km": 34062,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Tiguan COMFORTLINE",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Crosstrek SPORT",
       "vin": "JF2GTAGC3PH229104",
       "stock": "KU2407",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/43a4ceebad60.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2023/subaru/crosstrek/kelowna/bc/71359867/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2023/subaru/crosstrek/kelowna/bc/71359867/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -545,14 +641,17 @@
       "odometer_km": 51506,
       "year": 2023,
       "make": "Subaru",
-      "model": "Crosstrek SPORT",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Solterra W/TECHNOLOGY PACKAGE",
       "vin": "JTMABABA4PA005152",
       "stock": "KU2310",
       "color": "Grey",
+      "trim": "W/TECHNOLOGY PACKAGE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/562218a17e69.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2023/subaru/solterra/kelowna/bc/70324102/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2023/subaru/solterra/kelowna/bc/70324102/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -562,8 +661,10 @@
       "odometer_km": 67587,
       "year": 2023,
       "make": "Subaru",
-      "model": "Solterra W/TECHNOLOGY PACKAGE",
-      "condition": "used"
+      "model": "Solterra",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Solterra W/LUXURY PACKAGE",
@@ -580,7 +681,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Solterra W/LUXURY PACKAGE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Solterra BASE",
@@ -597,13 +700,16 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Solterra BASE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek WILDERNESS",
       "vin": "4S4GUHU64R3730999",
       "stock": "KU2400",
       "color": "Green",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/d795c9da674c.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71257820/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71257820/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -613,14 +719,17 @@
       "odometer_km": 67232,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek WILDERNESS",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC3RH226294",
       "stock": "KU2406",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/12f81041a0ce.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71332266/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71332266/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -628,14 +737,17 @@
       "odometer_km": 41704,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC9RH275420",
       "stock": "KU2290",
       "color": "Black",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ec3633f52d40.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71343251/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/crosstrek/kelowna/bc/71343251/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -645,14 +757,17 @@
       "odometer_km": 43380,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback PREMIER XT",
       "vin": "4S4BTHPD1R3208094",
       "stock": "KU2412",
       "color": "Green",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/6c39fb43efa0.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/outback/kelowna/bc/71393374/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/outback/kelowna/bc/71393374/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -662,14 +777,17 @@
       "odometer_km": 35366,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback WILDERNESS",
       "vin": "4S4BTHTD6R3287977",
       "stock": "KU2411",
       "color": "Blue",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ba43e700440c.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/outback/kelowna/bc/71393375/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/outback/kelowna/bc/71393375/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -679,14 +797,17 @@
       "odometer_km": 28860,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback WILDERNESS",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX BASE",
       "vin": "JF1VBAB62R9812602",
       "stock": "PU1111",
       "color": "Grey",
+      "trim": "BASE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/43b06041e9cc.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/wrx/kelowna/bc/71349927/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/subaru/wrx/kelowna/bc/71349927/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -696,28 +817,34 @@
       "odometer_km": 56960,
       "year": 2024,
       "make": "Subaru",
-      "model": "WRX BASE",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Sedan COMFORTLINE",
       "vin": "3VWSM7BU0RM018513",
       "stock": "KU2413",
       "color": "Blue",
+      "trim": "COMFORTLINE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a0d7cefa3e03.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2024/volkswagen/jetta-sedan/kelowna/bc/71405537/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2024/volkswagen/jetta-sedan/kelowna/bc/71405537/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T14:53:34",
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta Sedan COMFORTLINE",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester SPORT",
       "vin": "JF2SLDHC1SH448808",
       "stock": "KU2398",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b8a3c862b3bd.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/forester/kelowna/bc/71238421/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/forester/kelowna/bc/71238421/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -727,14 +854,17 @@
       "odometer_km": 37106,
       "year": 2025,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback WILDERNESS",
       "vin": "4S4BTHTD7S3124955",
       "stock": "KU2415",
       "color": "White",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/d42c5a2eb475.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/outback/kelowna/bc/71405538/?sale_class=used",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2025/subaru/outback/kelowna/bc/71405538/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -744,28 +874,34 @@
       "odometer_km": 14237,
       "year": 2025,
       "make": "Subaru",
-      "model": "Outback WILDERNESS",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED",
       "vin": "JF2GUSND4T8289255",
       "stock": "KN26500",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/67d9491ea7e5.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71231296/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71231296/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:10:33",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED",
       "vin": "JF2GUSND9T8280230",
       "stock": "KN26531",
       "color": "Yellow",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c710d5cc9af9.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71320070/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71320070/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -775,14 +911,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED",
       "vin": "JF2GUSNDXT8279944",
       "stock": "KN26534",
       "color": "White",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6ec84accac2e.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71381766/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek-hybrid/kelowna/bc/71381766/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -792,14 +931,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE",
       "vin": "JF2GUHBC9T8289122",
       "stock": "KN26488",
       "color": "White",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/2830b51d53ec.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71206867/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71206867/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -809,14 +951,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek CONVENIENCE",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFCXT8279645",
       "stock": "KN26510",
       "color": "White",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6c9deba716da.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231279/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231279/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -826,14 +971,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDC9T8289280",
       "stock": "KN26503",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/70beeb7c8f73.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231285/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231285/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -843,14 +991,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDC8T8279677",
       "stock": "KN26512",
       "color": "Red",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/a31ef1a5eb4b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231288/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231288/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -860,14 +1011,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC2T8288999",
       "stock": "KN26502",
       "color": "Silver",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ba528d98a83a.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231289/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71231289/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -877,14 +1031,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC8T8267350",
       "stock": "KN26526",
       "color": "Black",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/941065c30780.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71320071/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71320071/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -894,14 +1051,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDC1T8280296",
       "stock": "KN26532",
       "color": "Brown",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3565ee9ee7d0.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71320076/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71320076/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -911,14 +1071,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC5T8227924",
       "stock": "KN26147",
       "color": "Red",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/aec22f0470e4.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71372038/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/crosstrek/kelowna/bc/71372038/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -928,14 +1091,17 @@
       "odometer_km": 5440,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC7TH437988",
       "stock": "KN26008",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/021d24aece4e.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70324097/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70324097/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -945,14 +1111,17 @@
       "odometer_km": 18554,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC4TH449422",
       "stock": "KN26046",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b42e9f757377.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70711756/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70711756/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -962,14 +1131,17 @@
       "odometer_km": 6219,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC3TH468088",
       "stock": "KN26398",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1a156b89cab5.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70739235/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70739235/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -979,14 +1151,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC8TH468027",
       "stock": "KN26412",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4fe6cf48684c.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70800948/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70800948/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -996,14 +1171,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC1TH468350",
       "stock": "KN26421",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d75a9b02d623.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70813409/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70813409/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1013,14 +1191,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC4TH468499",
       "stock": "KN26420",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e00bb5865808.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70813412/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70813412/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1030,14 +1211,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC0TH468662",
       "stock": "KN26426",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/15ff3a6e13c6.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70824452/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70824452/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1047,14 +1231,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC8TH471177",
       "stock": "KN26439",
       "color": "Black",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/5018357db5a9.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70956562/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/70956562/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1064,14 +1251,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD4TH472753",
       "stock": "KN26463",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b13abfef7ef4.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71109453/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71109453/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1081,14 +1271,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD9TH468570",
       "stock": "KN26466",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/18a2e89c73a1.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178563/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178563/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1098,28 +1291,34 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC0TH472607",
       "stock": "KN26469",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/43552f7c0ade.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178570/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:00:34",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC2TH469853",
       "stock": "KN26470",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/04fabe1bb953.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178573/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178573/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1129,14 +1328,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC1TH469819",
       "stock": "KN26468",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e6fecf0415e7.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178577/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71178577/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1146,14 +1348,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDCXTH467722",
       "stock": "KN26487",
       "color": "Black",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/65e5d2a18ddc.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206862/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206862/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1163,14 +1368,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC8TH469785",
       "stock": "KN26485",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e301a648adb0.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206866/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206866/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1180,14 +1388,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC2TH469442",
       "stock": "KN26484",
       "color": "White",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/abeb416c15ab.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206869/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71206869/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1197,14 +1408,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC1TH472463",
       "stock": "KN26494",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/8b94f069379b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231281/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231281/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1214,14 +1428,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD2TH475229",
       "stock": "KN26492",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/7615479cc72b.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231283/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231283/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1231,14 +1448,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC2TH472011",
       "stock": "KN26507",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/453b779392c9.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231294/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231294/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1248,14 +1468,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC4TH471961",
       "stock": "KN26506",
       "color": "Green",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f9681a7abae2.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231295/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231295/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1265,14 +1488,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD1TH475433",
       "stock": "KN26491",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/fb3a8b88a8b3.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231297/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71231297/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1282,14 +1508,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC9TH475151",
       "stock": "KN26516",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c0addaefaf59.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248227/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248227/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1299,14 +1528,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD6TH475203",
       "stock": "KN26513",
       "color": "Black",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/8be6aa159874.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248228/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248228/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1316,14 +1548,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC9TH475319",
       "stock": "KN26517",
       "color": "Green",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/10a483315b21.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248229/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248229/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1333,14 +1568,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD5TH475418",
       "stock": "KN26515",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d8543dfdec2a.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248230/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71248230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1350,14 +1588,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRCXTH475165",
       "stock": "KN26522",
       "color": "Green",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/bd7e380d49d7.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271091/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271091/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1367,14 +1608,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTDXTH475219",
       "stock": "KN26521",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4f70e014394d.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271092/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271092/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1384,14 +1628,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD7TH475209",
       "stock": "KN26520",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d9498cb61653.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271093/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71271093/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1401,14 +1648,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC2TH471960",
       "stock": "KN26529",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6c0c4148b010.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320072/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320072/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1418,28 +1668,34 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD7TH471953",
       "stock": "KN26528",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/9494bfa239e2.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320074/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320074/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:02:05",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC6TH471783",
       "stock": "KN26530",
       "color": "Blue",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e2c81d7bff1e.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320075/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71320075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1449,14 +1705,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC4TH477348",
       "stock": "KN26538",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b5c6928c18bb.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71393369/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/forester/kelowna/bc/71393369/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1466,14 +1725,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD3TY559536",
       "stock": "KN26406",
       "color": "Black",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6d1f49b46009.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/70789510/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/70789510/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1483,14 +1745,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHD0TY560858",
       "stock": "KN26425",
       "color": "White",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3e975bcac643.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/70824451/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/70824451/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1500,14 +1765,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD3TY578555",
       "stock": "KN26448",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/5f95e5dd42f8.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71062023/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71062023/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1517,14 +1785,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD1TY576237",
       "stock": "KN26473",
       "color": "Grey",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/9b6bfd17389e.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71178572/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71178572/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1534,14 +1805,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD9TY591200",
       "stock": "KN26499",
       "color": "Grey",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ac2fa3f24710.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71231282/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71231282/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1551,14 +1825,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJDXTY590752",
       "stock": "KN26498",
       "color": "Green",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3e1c980f70ce.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71231286/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71231286/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1568,14 +1845,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING",
       "vin": "JF2BUPCD6TY570502",
       "stock": "KN26537",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c7452fe41961.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393370/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393370/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1585,14 +1865,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback TOURING",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD8TY598221",
       "stock": "KN26536",
       "color": "Black",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/75c77a8f61a2.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393371/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393371/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1602,22 +1885,27 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD2TY598232",
       "stock": "KN26535",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d317a5bedafd.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393372/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/outback/kelowna/bc/71393372/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:04:02",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker PREMIER",
@@ -1634,13 +1922,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker PREMIER",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT",
       "vin": "JF1VBAV6XT8812095",
       "stock": "KN26533",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/9fcd72e61646.html",
       "source_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/wrx/kelowna/bc/71320073/?sale_class=new",
       "dealer_url": "https://www.kelownasubaru.com/vehicles/2026/subaru/wrx/kelowna/bc/71320073/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1650,8 +1941,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX GT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     }
   ]
 }
