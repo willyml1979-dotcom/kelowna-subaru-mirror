@@ -1,17 +1,10 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-10-26T04:42:47",
-  "vehicle_count": 137,
+  "generated_at": "2026-10-26T04:47:47",
+  "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New Inventory",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ec61af23e095.html",
-      "condition": "new",
-      "price": 45527.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2002 Mazda",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/1d6201c49459.html",
@@ -540,16 +533,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2GUSND7T8295986",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dee6c1427399.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 42927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2GUSND6T8294036",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/06402efff4b5.html",
       "year": 2026,
@@ -772,16 +755,6 @@
       "name": "2026 Subaru",
       "vin": "JF2SLSTD5TH469506",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f45f276f320b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 50027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2SLSTD8TH474473",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/7d29daeb6ea7.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -1296,16 +1269,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 40027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru",
-      "vin": "JTMBGAHC2VY002639",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/79a91799daa6.html",
-      "year": 2027,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 53127.0,
       "price_currency": "CAD"
     },
     {
