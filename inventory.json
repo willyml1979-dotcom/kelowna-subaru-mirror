@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-11-16T23:24:58",
-  "vehicle_count": 133,
+  "generated_at": "2026-11-16T23:55:47",
+  "vehicle_count": 197,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -10,6 +10,20 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/4b9a16272514.html",
       "condition": "used",
       "price": 28693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New Inventory",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/827427734295.html",
+      "condition": "new",
+      "price": 50527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New Inventory",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d1d3311ac43a.html",
+      "condition": "new",
+      "price": 50527.0,
       "price_currency": "CAD"
     },
     {
@@ -172,36 +186,6 @@
       "make": "Subaru",
       "condition": "used",
       "price": 30693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "vin": "JF2GTHSC9MH359903",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f262e448553b.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 30432.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "vin": "JF2GTAAC6M9350644",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/efad16c90b60.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 26132.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "vin": "JF2SKEUC9MH538810",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/913c0eae8d1e.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 41132.0,
       "price_currency": "CAD"
     },
     {
@@ -531,26 +515,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2GUSND6T8294036",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/06402efff4b5.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 42927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUSND6T8292349",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4a30f972857b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 42927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2GUSNDXT8297893",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dab477650df9.html",
       "year": 2026,
@@ -561,32 +525,12 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2GUSND0T8291794",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/8176c4e7bd3a.html",
+      "vin": "JF2GUSND9T8287937",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1ab5b48a0c72.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
       "price": 42927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHDC8T8279677",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c55bc074b1fc.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 36427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHFCXT8279645",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/2f759c6bb815.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 37927.0,
       "price_currency": "CAD"
     },
     {
@@ -631,56 +575,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2GUHDC0T8285618",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/97e311b66a90.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 36427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHBC3T8285549",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/827427734295.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 33427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHBC4T8285592",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/00836218c153.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 33427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHFC8T8297853",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/73a728139e8d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 37927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2GUHNC4T8297804",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/049280cac85e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 39927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2GUHDC1T8296661",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/fc7a77994a1b.html",
       "year": 2026,
@@ -691,8 +585,38 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2GUHFC7T8300029",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dceba8b886f5.html",
+      "vin": "JF2GUHFC6T8296653",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4be9b64acc3d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 37927.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2GUHNC5T8287363",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dcdd50aa57f9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 39927.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2GUHFC7T8287654",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/733bb9ceeaf3.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 37927.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2GUHFC4T8297655",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b16cc0651831.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -703,16 +627,6 @@
       "name": "2026 Subaru",
       "vin": "JF2SLSTD4TH472753",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/22897673b327.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 50027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2SLSTD2TH475229",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f3509d2e0fb4.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -751,16 +665,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2SLSTD5TH469506",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f45f276f320b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 50027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2SLSTD2TH474470",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dc91f46391bd.html",
       "year": 2026,
@@ -771,8 +675,38 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2SLSTD8TH478717",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/9acc321021be.html",
+      "vin": "JF2SLSTD7TH480720",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b96c27c14b46.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLSTD0TH474676",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/a2a71347fd63.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLSTD8TH480502",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/415af10757c2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLSTD3TH480410",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/58b67d8104f8.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -787,16 +721,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 45527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2SLDHC4TH449422",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/50f0c92b3f0c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 43527.0,
       "price_currency": "CAD"
     },
     {
@@ -887,16 +811,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 43527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2SLDDCXTH467722",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d82971aa8534.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 41027.0,
       "price_currency": "CAD"
     },
     {
@@ -1021,16 +935,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2SLDHC2TH477395",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/22bc0238ee4b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 43527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2SLDHC5TH477486",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/799443bd0a1c.html",
       "year": 2026,
@@ -1101,6 +1005,336 @@
     },
     {
       "name": "2026 Subaru",
+      "vin": "JF2SLDDC6TH479205",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/0dcb0e2fd0a7.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC7TH480718",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/26a77fbf2a97.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC2TH474521",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/fd81d19934c8.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDCXTH474525",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1482af6857a6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDHC4TH474479",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b5253361b7a1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDRCXTH480771",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/51d5954e3122.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC1TH480777",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ba9c2b6fa054.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC5TH480426",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e4e6f523d5a1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDRC5TH480404",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f2d35c0a5a89.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDTC2TH480336",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4eaedda16b41.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 47027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDTC6TH481201",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/95b03330fcfa.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 47027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC6TH480421",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ecb705207db5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDRC8TH478064",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/67d0e547c95d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC9TH475469",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c666cfa3f96e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDAC7TH478441",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d3dddfaa957c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 35527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDHC3TH478569",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c4c8bc015f15.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC1TH478320",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b8568aecb320.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC2TH480416",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/b287bec48bf2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDHC2TH480412",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/cb62cb88ae57.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC0TH480382",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4c9bf7bc0fd5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDHC7TH480406",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ee9bcadf3f8c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDHC0TH480358",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/a1c11f965d16.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC4TH478411",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/10a771619e22.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC3TH478352",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/893181558df6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDRC0TH478172",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e2c78ba5f619.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC0TH480897",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/2459dfe485ea.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDAC8TH480960",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/56e96ca7a8c4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 35527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC2TH478360",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/393ab5e58771.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDAC3TH481076",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/5e946e714c61.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 35527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDDC6TH478359",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3b01f57a9293.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDRC3TH478263",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c86069268c9f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 44527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLDAC2TH478573",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dd80aad3691d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 35527.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF1GUAFCXT8220607",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/913d2af0d52a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 33757.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
       "vin": "JF2BURJD3TY559536",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/09840c756f9d.html",
       "year": 2026,
@@ -1121,38 +1355,8 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2BURJD1TY576237",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/09c01a7162ae.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 53277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2BURJDXTY590752",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/56b92b6072ab.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 53277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF2BURJD8TY598221",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/aabe37aa4cd8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 53277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2BURJD4TY576586",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/dd72360f4790.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -1167,16 +1371,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 53277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2BURHD6TY598871",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/7af269df3daa.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -1221,6 +1415,356 @@
     },
     {
       "name": "2026 Subaru",
+      "vin": "JF2BURJDXTY588127",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/90656d3a2afb.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD3TY605107",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6f089ed04034.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURHD1TY612675",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/09f7bfbb092f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD4TY588248",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f68ba559dc7b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD6TY588045",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/efb09cf1d88c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD7TY614054",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/2973fa1f2326.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD4TY588282",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/a466152bd2dc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD8TY613608",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f36c2eb9f040.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD4TY614089",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/aba23af46d6e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD5TY612170",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/68e38ab35cc9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURHD3TY612838",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/af8b1659149c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD4TY614366",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/0e431150131d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD4TY612404",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/36e8d20bad19.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURHD5TY612016",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/fa1afec1fe41.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD0TY588333",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3be85e884697.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD6TY600707",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1b3362db16d9.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD0TY588266",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/55a60023e573.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD0TY601436",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1b02c5877314.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD4TY614699",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/42ba611a907c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD9TY601130",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3c3fee04a1db.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD9TY600687",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/c03fdcce5ce0.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD3TY616055",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/5dda0a61e413.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD7TY601206",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3581e5577716.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD1TY616395",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/3bad005d6ded.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD0TY600878",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/a967aadfd2a4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD1TY601090",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/422f386c28d6.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURHD1TY601188",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/eab994ff7d0b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD5TY616092",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/8696531ecc6c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD4TY600952",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/60baac8e0fa1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURHD9TY615095",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/f7a8b6cb8081.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD9TY600882",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/56282c33b05f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD1TY601067",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4311f26cc7a3.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURLD7TY616026",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/68110f0a7338.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 52027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD1TY601234",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/bc52b0e466b1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BUPCD0TY614641",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/0adbdf2d478d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
       "vin": "JF1VBAZ62T9802729",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/85a75c4c9c4e.html",
       "year": 2026,
@@ -1241,16 +1785,6 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF1VBAH69T9817102",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/4765ba666fb2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 40727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "vin": "JF1VBAZ66T9816617",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/1d4c15c4779f.html",
       "year": 2026,
@@ -1261,12 +1795,62 @@
     },
     {
       "name": "2027 Subaru",
-      "vin": "JF2GUSGD5V8201376",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/6da75c8b4ca2.html",
+      "vin": "JF1ZDBS17V9700510",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/568f55b3d907.html",
       "year": 2027,
       "make": "Subaru",
       "condition": "new",
-      "price": 40027.0,
+      "price": 41027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JF2GUSGD1V8202296",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/9ba9592c4de3.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 40327.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JF2GUHFC7V8200693",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/180470a523ce.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 38427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JF2GUHBC6V8208354",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/8f11dfc3a995.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 33727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JF2GUHBC5V8208765",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/cd324a50c9c8.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 33727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMADAFC9VA015260",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/e9b544ef91c3.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53127.0,
       "price_currency": "CAD"
     },
     {
@@ -1277,6 +1861,56 @@
       "make": "Subaru",
       "condition": "new",
       "price": 61127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMBGAHC0VY002719",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/df322774ec41.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 57127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMBGAHC4VY003114",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/44a96bdac77f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 57127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMABABE5VJ035602",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/81dc5445db1b.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 43663.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMAAAAE5VJ031781",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/ba103f4e0766.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru",
+      "vin": "JTMAAAAE7VJ031829",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/92d36bfd6bd5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53127.0,
       "price_currency": "CAD"
     }
   ]
