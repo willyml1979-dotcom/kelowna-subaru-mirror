@@ -1,10 +1,17 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-10-26T04:47:47",
+  "generated_at": "2026-11-16T23:24:58",
   "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Pre-Owned Inventory",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/4b9a16272514.html",
+      "condition": "used",
+      "price": 28693.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2002 Mazda",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/1d6201c49459.html",
@@ -29,70 +36,7 @@
       "year": 2013,
       "make": "Subaru",
       "condition": "used",
-      "price": 16693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a48c418504de.html",
-      "year": 2013,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 38585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/891e0728f583.html",
-      "year": 2014,
-      "make": "Honda",
-      "condition": "used",
-      "price": 33690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Kia",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/d8bb40bf7173.html",
-      "year": 2014,
-      "make": "Kia",
-      "condition": "used",
-      "price": 8693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 BMW",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/954116d8c063.html",
-      "year": 2015,
-      "make": "BMW",
-      "condition": "used",
-      "price": 28690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/989fd1c145d7.html",
-      "year": 2015,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 11693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/09e2e1b93e30.html",
-      "year": 2015,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 18693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/5ff015b0336a.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "condition": "used",
-      "price": 25693.0,
+      "price": 13693.0,
       "price_currency": "CAD"
     },
     {
@@ -128,25 +72,16 @@
       "year": 2018,
       "make": "Subaru",
       "condition": "used",
-      "price": 20693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/997b4fbc0f85.html",
-      "year": 2018,
-      "make": "Subaru",
-      "condition": "used",
       "price": 19693.0,
       "price_currency": "CAD"
     },
     {
       "name": "2018 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/6f2cc41c7637.html",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/857dc7e0d75a.html",
       "year": 2018,
       "make": "Subaru",
       "condition": "used",
-      "price": 26693.0,
+      "price": 23693.0,
       "price_currency": "CAD"
     },
     {
@@ -186,15 +121,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Acura",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/9fd517aa3665.html",
-      "year": 2020,
-      "make": "Acura",
-      "condition": "used",
-      "price": 30693.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Mazda",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/e224cb8cfa1a.html",
       "year": 2020,
@@ -205,20 +131,11 @@
     },
     {
       "name": "2020 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/28c28096642d.html",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/6c483a07d77c.html",
       "year": 2020,
       "make": "Subaru",
       "condition": "used",
-      "price": 20693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/c69cac7f8773.html",
-      "year": 2020,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 32690.0,
+      "price": 29693.0,
       "price_currency": "CAD"
     },
     {
@@ -232,38 +149,29 @@
     },
     {
       "name": "2021 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/9537652385c8.html",
+      "year": 2021,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 28693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Subaru",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/2a397482c93d.html",
       "year": 2021,
       "make": "Subaru",
       "condition": "used",
+      "price": 29693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/571d721abed8.html",
+      "year": 2021,
+      "make": "Subaru",
+      "condition": "used",
       "price": 30693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/0cca37a2156c.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 32693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/e6e65b20a54a.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 50415.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/03070c15e5e0.html",
-      "year": 2021,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 40693.0,
       "price_currency": "CAD"
     },
     {
@@ -297,21 +205,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/52810b3fc346.html",
-      "year": 2022,
-      "make": "Honda",
-      "condition": "used",
-      "price": 27693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/aef34078898c.html",
-      "year": 2022,
+      "name": "2023 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ec24d2e31c0b.html",
+      "year": 2023,
       "make": "Subaru",
       "condition": "used",
-      "price": 36693.0,
+      "price": 30693.0,
       "price_currency": "CAD"
     },
     {
@@ -325,38 +224,11 @@
     },
     {
       "name": "2023 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/ac4fb17191cb.html",
-      "year": 2023,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 31693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f5f5b01fa538.html",
       "year": 2023,
       "make": "Subaru",
       "condition": "used",
       "price": 35693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/48d6d5cd53ef.html",
-      "year": 2024,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 36693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/c332c9eeda1f.html",
-      "year": 2024,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 32693.0,
       "price_currency": "CAD"
     },
     {
@@ -370,11 +242,38 @@
     },
     {
       "name": "2024 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a597d3a9b4c9.html",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/2e6847683ed4.html",
+      "year": 2024,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 27693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/79aaac545b5a.html",
+      "year": 2024,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 36693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/02589fb0376f.html",
       "year": 2024,
       "make": "Subaru",
       "condition": "used",
       "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/c5e6144f2395.html",
+      "year": 2024,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 38693.0,
       "price_currency": "CAD"
     },
     {
@@ -393,33 +292,6 @@
       "make": "Subaru",
       "condition": "used",
       "price": 40693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/2691dd01eb53.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "condition": "used",
-      "price": 26693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/6bc0f92ed469.html",
-      "year": 2025,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 59285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f56cf46f89f1.html",
-      "year": 2025,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 59285.0,
       "price_currency": "CAD"
     },
     {
@@ -446,16 +318,79 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "used",
+      "price": 33693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/e60224749d37.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
       "price": 34693.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/4b9a16272514.html",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/66efa6993ca0.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "used",
-      "price": 34193.0,
+      "price": 34693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/44494010f581.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 38693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/72a75623136c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 33193.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/3f9a86543ab0.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 30693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a42b250bb785.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 33693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/fc826b88bf36.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 38693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/aac57054f0fd.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 38693.0,
       "price_currency": "CAD"
     },
     {
@@ -473,7 +408,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "used",
-      "price": 46693.0,
+      "price": 45693.0,
       "price_currency": "CAD"
     },
     {
@@ -482,7 +417,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "used",
-      "price": 41693.0,
+      "price": 40693.0,
       "price_currency": "CAD"
     },
     {
@@ -491,7 +426,79 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "used",
-      "price": 42193.0,
+      "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/efcb66a6d629.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/a87aae359011.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/b9738bb8fcd7.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 45693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f7c0761dd51a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 43693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/9fc0eeb8b8b8.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f4f2e43b9a4b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 34193.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/5735d07ae0fa.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 39693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/bccf147bf35d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 39693.0,
       "price_currency": "CAD"
     },
     {
@@ -510,15 +517,6 @@
       "make": "Subaru",
       "condition": "used",
       "price": 31693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/f7469df2cc01.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 54185.0,
       "price_currency": "CAD"
     },
     {
