@@ -1,17 +1,10 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-11-17T20:50:02",
-  "vehicle_count": 197,
+  "generated_at": "2026-11-18T06:14:15",
+  "vehicle_count": 196,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Pre-Owned Inventory",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/4b9a16272514.html",
-      "condition": "used",
-      "price": 28693.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "New Inventory",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/827427734295.html",
