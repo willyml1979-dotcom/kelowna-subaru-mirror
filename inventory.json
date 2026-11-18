@@ -1,24 +1,10 @@
 {
   "dealership": "Kelowna Subaru",
-  "generated_at": "2026-11-18T06:14:15",
-  "vehicle_count": 196,
+  "generated_at": "2026-11-18T06:23:23",
+  "vehicle_count": 194,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New Inventory",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/827427734295.html",
-      "condition": "new",
-      "price": 50527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New Inventory",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/new/d1d3311ac43a.html",
-      "condition": "new",
-      "price": 50527.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2002 Mazda",
       "url": "https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/1d6201c49459.html",
@@ -833,7 +819,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 47527.0,
+      "price": 47027.0,
       "price_currency": "CAD"
     },
     {
@@ -843,7 +829,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -853,7 +839,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 45527.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -863,7 +849,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 41027.0,
+      "price": 40527.0,
       "price_currency": "CAD"
     },
     {
@@ -873,7 +859,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -883,7 +869,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -893,7 +879,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 45527.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -903,7 +889,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 41027.0,
+      "price": 40527.0,
       "price_currency": "CAD"
     },
     {
@@ -913,7 +899,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 47527.0,
+      "price": 47027.0,
       "price_currency": "CAD"
     },
     {
@@ -923,7 +909,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 47527.0,
+      "price": 47027.0,
       "price_currency": "CAD"
     },
     {
@@ -933,7 +919,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -943,7 +929,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -953,7 +939,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -963,7 +949,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 43527.0,
+      "price": 43027.0,
       "price_currency": "CAD"
     },
     {
@@ -973,7 +959,7 @@
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
-      "price": 41027.0,
+      "price": 40527.0,
       "price_currency": "CAD"
     },
     {

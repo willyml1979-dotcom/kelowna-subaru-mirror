@@ -1,6 +1,6 @@
 # Kelowna Subaru
 
- dealership in Kelowna. AI-readable inventory mirror, about 196 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 194 vehicles.
 
 - Official website: https://www.kelownasubaru.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-subaru-mirror/used/
